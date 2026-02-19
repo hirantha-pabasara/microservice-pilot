@@ -1,0 +1,21 @@
+# Compiled
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Application properties with sensitive data
+# (uncomment below if you want to hide your DB password)
+# src/main/resources/application.properties
